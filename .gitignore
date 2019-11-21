@@ -106,3 +106,5 @@ log.txt
 realtrain_cotra.txt
 vocab_cotra.pkl
 wiki-news-300d-1M.vec
+save/
+text/
