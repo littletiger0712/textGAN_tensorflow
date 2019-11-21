@@ -1,6 +1,0 @@
-model_checkpoint_path: "bird_128_dim_cnn_rnn_s0-24"
-all_model_checkpoint_paths: "bird_128_dim_cnn_rnn_s0-20"
-all_model_checkpoint_paths: "bird_128_dim_cnn_rnn_s0-21"
-all_model_checkpoint_paths: "bird_128_dim_cnn_rnn_s0-22"
-all_model_checkpoint_paths: "bird_128_dim_cnn_rnn_s0-23"
-all_model_checkpoint_paths: "bird_128_dim_cnn_rnn_s0-24"
